@@ -1,5 +1,3 @@
-# Linear_Train
-
 # Linear Regression from Scratch
 
 This project demonstrates the implementation of **Linear Regression** — one of the most fundamental algorithms in machine learning — **from scratch using NumPy and Pandas**.  
@@ -59,7 +57,7 @@ Linear_Regression_From_Scratch/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Linear-Regression-From-Scratch.git
+   git clone https://github.com/Sumitpalekar/Linear-Regression-From-Scratch.git
    cd Linear-Regression-From-Scratch
    ```
 
